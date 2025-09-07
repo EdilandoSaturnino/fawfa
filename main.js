@@ -1,6 +1,7 @@
 // novo comentário
 // Este arquivo contém exemplos de diferentes funcionalidades JavaScript
 
+// branch dev
 console.log("=== TESTE JAVASCRIPT ===");
 
 // 1. Variáveis e tipos de dados
