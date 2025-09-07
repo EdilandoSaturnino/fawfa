@@ -1,3 +1,4 @@
+// novo comentário
 // Este arquivo contém exemplos de diferentes funcionalidades JavaScript
 
 console.log("=== TESTE JAVASCRIPT ===");
